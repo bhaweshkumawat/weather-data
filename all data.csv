@@ -1,0 +1,84 @@
+City,Latitude,Longitude,State,country,iso2,Temperature ( °C ),Humidity ( % ),Pressure ( mb ),Wind Speed (km/h)
+Agartala,23.836049,91.279386,Tripura,India,IN,36,81,1007,7
+Agra,27.187935,78.003944,Uttar Pradesh,India,IN,26,42,1006,4
+Ahmedabad,23.025793,72.587265,Gujarat,India,IN,33,74,1007,7
+Ajmer,26.452103,74.638667,Rajasthan,India,IN,29,43,1006,8
+Aligarh,27.881453,78.07464,Uttar Pradesh,India,IN,26,41,1006,14
+Allahabad,25.44478,81.843217,Uttar Pradesh,India,IN,29,52,1006,13
+Amritsar,31.622337,74.875335,Punjab,India,IN,32,38,1009,11
+Aurangabad,19.880943,75.346739,Maharashtra,India,IN,33,61,1007,6
+Bengaluru,12.977063,77.587106,Karnataka,India,IN,28,86,1012,10
+Bharatpur,27.215251,77.492786,Rajasthan,India,IN,27,39,1006,8
+Bhilai,21.209188,81.428497,Chhattisgarh,India,IN,34,34,1007,8
+Bhilwara,25.347071,74.640812,Rajasthan,India,IN,31,42,1007,5
+Bhopal,23.254688,77.402892,Madhya Pradesh,India,IN,29,37,1012,11
+Bhubaneshwar,20.272411,85.833853,Odisha,India,IN,36,95,1008,4
+Bijapur,16.827715,75.718988,Karnataka,India,IN,31,71,1006,12
+Bikaner,28.017623,73.314955,Rajasthan,India,IN,36,40,1006,6
+Brahmapur,19.311514,84.792903,Odisha,India,IN,34,74,1006,8
+Chandigarh,30.736292,76.788398,Chandigarh,India,IN,31,32,1007,10
+Chennai,13.084622,80.248357,Tamil Nadu,India,IN,35,63,1008,9
+Coimbatore,11.005547,76.966122,Tamil Nadu,India,IN,31,79,1011,4
+Daman,20.414315,72.83236,Daman and Diu,India,IN,32,79,1005,8
+DehraDun,30.324427,78.033922,Uttarakhand,India,IN,19,52,1009,4
+Delhi,28.651952,77.231495,Delhi,India,IN,28,37,1010,9
+Dhanbad,23.801988,86.443244,Jharkhand,India,IN,34,77,1016,3
+Dispur,26.135638,91.800688,Assam,India,IN,31,76,1008,2
+Diu,20.715115,70.987952,Daman and Diu,India,IN,31,79,1008,14
+Gangtok,27.325739,88.612155,Sikkim,India,IN,19,73,1013,8
+Ghaziabad,28.665353,77.439148,Uttar Pradesh,India,IN,26,38,1010,10
+Gurugram,28.460105,77.026352,Haryana,India,IN,28,37,1006,9
+Guwahati,26.176076,91.762932,Assam,India,IN,30,76,1008,1
+Gwalior,26.229825,78.173369,Madhya Pradesh,India,IN,26,40,1006,3
+Hyderabad,17.384052,78.456355,Telangana,India,IN,32,52,1012,4
+Imphal,24.808053,93.944203,Manipur,India,IN,27,81,1012,6
+Indore,22.717736,75.85859,Madhya Pradesh,India,IN,30,49,1012,1
+Itanagar,27.102349,93.692047,Arunachal Pradesh,India,IN,28,76,1009,7
+Jabalpur,23.174495,79.935903,Madhya Pradesh,India,IN,32,42,1012,6
+Jaipur,26.913312,75.787872,Rajasthan,India,IN,27,34,1011,3
+Jammu,32.735686,74.869112,Jammu and Kashmir,India,IN,32,39,1009,7
+Jamshedpur,22.802776,86.185448,Jharkhand,India,IN,36,83,1008,1
+Jodhpur,26.26841,73.005943,Rajasthan,India,IN,31,50,1005,3
+Kakinada,16.960361,82.238086,Andhra Pradesh,India,IN,36,62,1007,7
+Kavaratti,10.566667,72.616667,Lakshadweep,India,IN,30,79,1006,8
+Kochi,9.947743,76.253802,Kerala,India,IN,31,85,1007,17
+Kohima,25.674673,94.110988,Nagaland,India,IN,22,72,1011,9
+Kolhapur,16.695633,74.231669,Maharashtra,India,IN,29,80,1007,9
+Kolkata,22.562627,88.363044,West Bengal,India,IN,36,89,1007,6
+Kota,25.182544,75.839065,Rajasthan,India,IN,29,38,1006,3
+Lucknow,26.839281,80.923133,Uttar Pradesh,India,IN,28,55,1008,7
+Ludhiana,30.912042,75.853789,Punjab,India,IN,33,37,1006,10
+Madurai,9.917347,78.119622,Tamil Nadu,India,IN,35,60,1006,6
+Mangalore,12.865371,74.842432,Karnataka,India,IN,28,85,1006,8
+Mathura,27.503501,77.672145,Uttar Pradesh,India,IN,27,40,1006,8
+Meerut,28.980018,77.706356,Uttar Pradesh,India,IN,24,43,1010,13
+Mirzapur,25.144902,82.565335,Uttar Pradesh,India,IN,30,51,1006,8
+Mumbai,18.987807,72.836447,Maharashtra,India,IN,32,77,1006,9
+Muzaffarnagar,29.470914,77.703324,Uttar Pradesh,India,IN,27,43,1007,9
+Mysore,12.292664,76.638543,Karnataka,India,IN,29,83,1008,12
+Nellore,14.449918,79.986967,Andhra Pradesh,India,IN,37,58,1006,1
+New Delhi,28.6,77.2,Delhi,India,IN,28,36,1009,13
+Pali,25.775125,73.320611,Rajasthan,India,IN,32,50,1008,8
+Panaji,15.498289,73.824541,Goa,India,IN,26,84,1007,17
+Panipat,29.387471,76.968246,Haryana,India,IN,28,33,1006,14
+Pathankot,32.274842,75.652865,Punjab,India,IN,31,32,1008,11
+Patiala,30.336245,76.392199,Punjab,India,IN,33,34,1009,4
+Patna,25.615379,85.101027,Bihar,India,IN,24,47,1006,9
+Porbandar,21.641346,69.600868,Gujarat,India,IN,33,76,1009,7
+Port Blair,11.666667,92.75,Andaman and Nicobar Islands,India,IN,29,64,1008,1
+Puducherry,11.933812,79.829792,Puducherry,India,IN,34,66,1005,9
+Pune,18.513271,73.849852,Maharashtra,India,IN,31,76,1006,6
+Rajkot,22.291606,70.793217,Gujarat,India,IN,35,69,1008,15
+Ranchi,23.347768,85.338564,Jharkhand,India,IN,33,52,1011,7
+Rourkela,22.224964,84.864143,Odisha,India,IN,37,65,1007,6
+Siliguri,26.710035,88.428512,West Bengal,India,IN,29,79,1008,10
+Shimla,31.104423,77.166623,Himachal Pradesh,India,IN,16,44,1011,11
+Srinagar,34.085652,74.805553,Jammu and Kashmir,India,IN,23,62,1015,2
+Surat,21.195944,72.830232,Gujarat,India,IN,34,74,1007,6
+Thiruvananthapuram,8.485498,76.949238,Kerala,India,IN,32,85,1008,6
+Tiruchchirappalli,10.815499,78.696513,Tamil Nadu,India,IN,35,60,1007,9
+Udaipur,24.57951,73.690508,Rajasthan,India,IN,32,53,1011,9
+Varanasi,25.31774,83.005811,Uttar Pradesh,India,IN,27,51,1008,4
+Vellore,12.905769,79.137104,Tamil Nadu,India,IN,37,61,1005,6
+Vishakhapatnam,17.704052,83.297663,Andhra Pradesh,India,IN,34,69,1006,15
+Warangal,17.978423,79.600209,Telangana,India,IN,34,39,1008,10
